@@ -11,3 +11,7 @@ Este trabalho apresenta um dashboard feito com base de um banco de dados da ANTT
 ## Gráficos no Excel sobre empresas multimodais 
 <img width="1538" height="824" alt="image" src="https://github.com/user-attachments/assets/91aa373e-5ba1-4389-a835-024c4854784b" />
 Este trabalho apresenta dois gráficos feito no programa Excel, respondendo as seguintes questões com os dados obtidos: Quantidade de empresas por cidade e por UF.
+
+## Gráficos no Excel sobre Tipos de Sinistro
+<img width="991" height="466" alt="image" src="https://github.com/user-attachments/assets/e52d7b84-a4a4-4df1-9976-c9ca9852f5bd" />
+Este trabalho apresenta gráfico no programa Excel mostrando dados sobre sinistros no estado de São Paulo no mês de julho de 2026.
