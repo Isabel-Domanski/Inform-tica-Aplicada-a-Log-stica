@@ -6,3 +6,4 @@ Este trabalho em grupo apresenta três tópicos sendo comida, pets e viagens. Ca
 
 ## Gráficos em Power BI sobre empresas multimodais 
 <img width="1423" height="747" alt="image" src="https://github.com/user-attachments/assets/34f86566-c10b-4d01-988a-3474855c46ec" />
+Este trabalho apresenta um dashboard feito com base de um banco de dados da ANTT. O dashboard mostra as seguintes informações: Quantas empresas aderiram ao decreto, Contagem de razão social por adesão ao decreto, Contagem de UF por cidade e um mapa de contagem de COTM por cidade.
