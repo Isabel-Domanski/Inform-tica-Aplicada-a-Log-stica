@@ -10,3 +10,4 @@ Este trabalho apresenta um dashboard feito com base de um banco de dados da ANTT
 
 ## Gráficos no Excel sobre empresas multimodais 
 <img width="1538" height="824" alt="image" src="https://github.com/user-attachments/assets/91aa373e-5ba1-4389-a835-024c4854784b" />
+Este trabalho apresenta dois gráficos feito no programa Excel, respondendo as seguintes questões com os dados obtidos: Quantidade de empresas por cidade e por UF.
