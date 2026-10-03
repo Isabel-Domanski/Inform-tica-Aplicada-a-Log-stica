@@ -15,3 +15,7 @@ Este trabalho apresenta dois gráficos feito no programa Excel, respondendo as s
 ## Gráficos no Excel sobre Tipos de Sinistro
 <img width="991" height="466" alt="image" src="https://github.com/user-attachments/assets/e52d7b84-a4a4-4df1-9976-c9ca9852f5bd" />
 Este trabalho apresenta gráfico no programa Excel mostrando dados sobre sinistros no estado de São Paulo no mês de julho de 2026.
+
+##Dashboard no Power BI sobre Tipos de Sinistro
+<img width="1306" height="732" alt="image" src="https://github.com/user-attachments/assets/ebaf57e3-b632-4874-aace-6e1afd909928" />
+
