@@ -16,6 +16,6 @@ Este trabalho apresenta dois gráficos feito no programa Excel, respondendo as s
 <img width="991" height="466" alt="image" src="https://github.com/user-attachments/assets/e52d7b84-a4a4-4df1-9976-c9ca9852f5bd" />
 Este trabalho apresenta cinco gráfico feito no programa Excel mostrando dados sobre sinistros no estado de São Paulo no mês de julho de 2026.
 
-##Dashboard no Power BI sobre Tipos de Sinistro
+## Dashboard no Power BI sobre Tipos de Sinistro
 <img width="1306" height="732" alt="image" src="https://github.com/user-attachments/assets/ebaf57e3-b632-4874-aace-6e1afd909928" />
 Este trabalho apresenta um dashboard com base nos dados sobre sinistros no estado de São Paulo em julho de 2026. Os gráficos sendo sobre: Contagem de tipo de sinistro por turno, contagem de logradouro por tipo de sinistro primário, contagem de logradouro por tipo de via e contagem de tipo de sinistro por atropelamento de pedestres por dia da semana. 
