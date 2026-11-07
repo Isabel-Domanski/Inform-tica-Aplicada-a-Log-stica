@@ -19,3 +19,11 @@ Este trabalho apresenta cinco gráfico feito no programa Excel mostrando dados s
 ## Dashboard no Power BI sobre Tipos de Sinistro
 <img width="1306" height="732" alt="image" src="https://github.com/user-attachments/assets/ebaf57e3-b632-4874-aace-6e1afd909928" />
 Este trabalho apresenta um dashboard com base nos dados sobre sinistros no estado de São Paulo em julho de 2026. Os gráficos sendo sobre: Contagem de tipo de sinistro por turno, contagem de logradouro por tipo de sinistro primário, contagem de logradouro por tipo de via e contagem de tipo de sinistro por atropelamento de pedestres por dia da semana. 
+
+## Gráfico de dispersão no Excel sobre notas escolares
+<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/2e5a1add-cfc2-4d4e-8d27-d7a9a694e9f7" />
+Este gráfico apresenta dados sobre notas de alunos. Respondendo as três perguntas feitas no teams: 
+1- Mais notas de estudos estão associadas á mais tempo de estudo?
+Sim, nos dois gráficos é visível a relação entre horas de estudo e nota final, portanto entende-se que quanto mais os alunos estudam  melhor é o resultado na nota.
+2- Comparando os dois modelos de regressão linear: eles são iguais? 
+Não são totalmente iguais, os gráficos apresentam uma relação porem com uma pequena diferença na equação gerada no Excel e na equação gerada no Google Colab.
