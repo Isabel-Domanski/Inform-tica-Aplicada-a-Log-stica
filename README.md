@@ -36,3 +36,8 @@ Não são totalmente iguais, os gráficos apresentam uma relação porem com uma
 <img width="862" height="543" alt="image" src="https://github.com/user-attachments/assets/975339ac-f0a9-4204-a8d5-5f24890ca81d" />
 Este gráfico apresenta dados sobre a idade média de homens e mulheres ao se casar, os dados foram obtidos com os arquivos disponibilizados no teams.
 
+## Dashboard no Power BI sobre Investimentos
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/6a1c30b0-cecb-411e-ae42-cb677b0fa626" />
+Este dashboard apresenta um mapa e dois gráficos sobre investimentos.
+
+
