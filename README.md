@@ -38,6 +38,6 @@ Este gráfico apresenta dados sobre a idade média de homens e mulheres ao se ca
 
 ## Dashboard no Power BI sobre Investimentos
 <img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/6a1c30b0-cecb-411e-ae42-cb677b0fa626" />
-Este dashboard apresenta um mapa e dois gráficos sobre investimentos.
+Este dashboard apresenta um mapa e dois gráficos sobre investimentos captados.
 
 
