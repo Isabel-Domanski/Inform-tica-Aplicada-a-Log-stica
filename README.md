@@ -48,3 +48,7 @@ Este gráfico apresenta informações sobre Regressão linear da temperatura vs 
 <img width="947" height="477" alt="Captura de tela 2026-11-27 191953" src="https://github.com/user-attachments/assets/e0bfd9a5-f86f-4344-a20a-51b559ff9e93" />
 Este gráfico apresenta informações referente a temperatura e faturamento segundo uma planilha de sorvetes.
 
+## Dashboard Power BI expectativa de vida 
+<img width="1139" height="647" alt="image" src="https://github.com/user-attachments/assets/38bcba01-6f06-4f6e-a68b-46fce433e4b5" />
+Este dashboard apresenta três visualizações feitas na plataforma Power BI referente a expectativa de vida.
+
