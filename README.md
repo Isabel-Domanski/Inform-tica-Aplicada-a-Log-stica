@@ -40,7 +40,11 @@ Este gráfico apresenta dados sobre a idade média de homens e mulheres ao se ca
 <img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/6a1c30b0-cecb-411e-ae42-cb677b0fa626" />
 Este dashboard apresenta um mapa e dois gráficos sobre investimentos captados.Um gráfico referente ao número de municipios por setor, outro gráfico em formato pizza referente ao cnae anual 
 
-## Gráfico de dispersão no Google Colab 
+## Gráfico de dispersão no Google Colab Sorvete
 <img width="1061" height="551" alt="image" src="https://github.com/user-attachments/assets/dde3bb5a-e88e-47c0-ad25-b199a0b3de8b" />
 Este gráfico apresenta informações sobre Regressão linear da temperatura vs faturamento. Foi utilizado a planilha Ice-Cream Sales Dataset.
+
+## Gráfico de dispersão no Excel Sorvete
+<img width="947" height="477" alt="Captura de tela 2026-11-27 191953" src="https://github.com/user-attachments/assets/e0bfd9a5-f86f-4344-a20a-51b559ff9e93" />
+Este gráfico apresenta informações referente a temperatura e faturamento segundo uma planilha de sorvetes.
 
