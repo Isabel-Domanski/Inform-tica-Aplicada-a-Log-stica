@@ -40,4 +40,7 @@ Este gráfico apresenta dados sobre a idade média de homens e mulheres ao se ca
 <img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/6a1c30b0-cecb-411e-ae42-cb677b0fa626" />
 Este dashboard apresenta um mapa e dois gráficos sobre investimentos captados.Um gráfico referente ao número de municipios por setor, outro gráfico em formato pizza referente ao cnae anual 
 
+## Gráfico de dispersão no Google Colab 
+<img width="1061" height="551" alt="image" src="https://github.com/user-attachments/assets/dde3bb5a-e88e-47c0-ad25-b199a0b3de8b" />
+Este gráfico apresenta informações sobre Regressão linear da temperatura vs faturamento. Foi utilizado a planilha Ice-Cream Sales Dataset.
 
